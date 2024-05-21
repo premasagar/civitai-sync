@@ -48,6 +48,10 @@ npm run cli /bob/civitai/alice.json
 - Open the "**Cookies**" list, and click on "**`https://civitai.com`**".
 - Click the cookie named "**`__Secure-civitai-token`**" and copy the value.
 
+
+https://github.com/premasagar/civitai-sync/assets/116809/eb516635-a766-43a2-8e53-7c43d497a8be
+
+
 ## Set your secret key
 
 - Back here, in the menu, choose "**Set secret key**".
