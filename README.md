@@ -3,6 +3,9 @@
 Download and save your Civitai on-site generations to your computer.  
 Unofficial, third-party software.
 
+Download a zip of the app:  
+https://github.com/premasagar/civitai-sync/archive/refs/heads/main.zip
+
 ## About
 Using your secret key from the Civitai website, this performs the
 equivalent of scrolling through your on-site generations and downloading
