@@ -9,6 +9,8 @@ equivalent of scrolling through your on-site generations and downloading
 each image individually. It downloads the generation data and media into
 date-ordered subdirectories.
 
+![cli-01](https://github.com/premasagar/civitai-sync/assets/116809/6fef785b-746f-4a95-9cbd-205ebf736777)
+
 ## Install
 
 Install node.js v18+, and download civitai-sync
@@ -57,6 +59,8 @@ https://github.com/premasagar/civitai-sync/assets/116809/eb516635-a766-43a2-8e53
 - Back here, in the menu, choose "**Set secret key**".
 - Paste your secret key (right-click, or use "Ctrl+Shift+V" or equivalent).
 - Optionally, you can encrypt your key with a password.
+
+![cli_05](https://github.com/premasagar/civitai-sync/assets/116809/119a324c-df2d-49f6-88c3-cbbfd3d315f6)
 
 The key will expire within a month.
 The expiry date is shown in the browser Cookies list.
